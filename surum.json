@@ -1,6 +1,6 @@
 {
   "version": "2.8",
   "url": "https://github.com/ruhitemel/envanter-guncelleme/releases/download/v2.8/Envanter-USB.zip",
-  "sha256": "885AD336963726A75417B4DA90A23520B0A7A142C941FA7089019840B5FBA0C5",
+  "sha256": "CE4534E062732030A444C6FB181D179461350B3C62003998B59EEE74C577CB6D",
   "notes": "Acilista otomatik guncelleme kontrolu eklendi; veri ve ayar dosyalari korunur."
 }
